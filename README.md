@@ -6,7 +6,7 @@ The project focuses on detecting surface and structural defects on ship containe
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 Ship containers are exposed to harsh environmental and mechanical conditions, which may cause defects such as corrosion, cracks, dents, holes, paint peeling, and scratches. Traditional inspection procedures rely on manual visual checks, which are time-consuming, subjective, and error-prone.
 
@@ -18,7 +18,7 @@ This project proposes an **automated inspection framework** that:
 
 ---
 
-## 🧠 Methodology Summary
+## Methodology Summary
 
 The proposed pipeline consists of the following stages:
 
@@ -50,7 +50,7 @@ The proposed pipeline consists of the following stages:
 
 ---
 
-## 📊 Experimental Results
+## Experimental Results
 
 - **Mean cross-validation accuracy:** ~96% (± <1%)
 - **Mean ROC-AUC:** > 0.95
@@ -61,7 +61,7 @@ The results demonstrate strong generalization and robustness of the proposed fea
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```text
 .
