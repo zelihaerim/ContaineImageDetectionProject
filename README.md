@@ -66,8 +66,4 @@ The results demonstrate strong generalization and robustness of the proposed fea
 ```text
 .
 ├── image-processing-notebook-v3.ipynb   # Main Jupyter Notebook (full pipeline)
-├── report.tex                           # LaTeX report source
-├── references.bib                      # BibTeX references
-├── appendix_code.tex                   # Notebook code exported as LaTeX appendix
-├── extract_notebook_code_to_tex.py     # Script to extract code from notebook
 ├── README.md                           # Project documentation (this file)
