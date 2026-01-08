@@ -52,7 +52,7 @@ The proposed pipeline consists of the following stages:
 
 ## 📊 Experimental Results
 
-- **Mean cross-validation accuracy:** ~89% (± <1%)
+- **Mean cross-validation accuracy:** ~96% (± <1%)
 - **Mean ROC-AUC:** > 0.95
 - **Validation accuracy:** > 94%
 - **Test accuracy:** > 94%
